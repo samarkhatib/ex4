@@ -338,7 +338,6 @@ bool badFormatStartTest()
 
 int main(){
         cout<<"a"<<endl;
-        cout<<"a"<<endl;
 	run_test(cardsPrintsTest,"cardsPrintsTest");
 	run_test(playersPrintsTest,"playersPrintsTest");
 	run_test(testCard,"Deck creation test");
